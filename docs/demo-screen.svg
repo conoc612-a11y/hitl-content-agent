@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700">
+  <rect width="1120" height="700" fill="#f6f7fb"/>
+  <rect x="40" y="32" width="1040" height="636" rx="22" fill="#ffffff" stroke="#d9deea"/>
+  <text x="76" y="86" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#1f2937">HITL 콘텐츠 발행 에이전트</text>
+  <text x="76" y="120" font-family="Arial, sans-serif" font-size="16" fill="#6b7280">위험한 글은 발행 직전에 멈추고, 승인된 뒤 체크포인트에서 이어서 발행합니다.</text>
+  <rect x="76" y="150" width="300" height="86" rx="14" fill="#eef2ff"/>
+  <rect x="410" y="150" width="300" height="86" rx="14" fill="#ecfdf5"/>
+  <rect x="744" y="150" width="300" height="86" rx="14" fill="#fff7ed"/>
+  <text x="100" y="184" font-family="Arial, sans-serif" font-size="15" fill="#4f46e5">승인 대기</text>
+  <text x="100" y="218" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">1</text>
+  <text x="434" y="184" font-family="Arial, sans-serif" font-size="15" fill="#059669">발행 완료</text>
+  <text x="434" y="218" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">1</text>
+  <text x="768" y="184" font-family="Arial, sans-serif" font-size="15" fill="#ea580c">반려</text>
+  <text x="768" y="218" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">0</text>
+  <rect x="76" y="270" width="968" height="48" rx="12" fill="#f3f4f6"/>
+  <text x="104" y="301" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111827">새 요청 처리</text>
+  <text x="250" y="301" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#2563eb">승인 대기</text>
+  <text x="376" y="301" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111827">처리 기록</text>
+  <rect x="76" y="348" width="450" height="250" rx="16" fill="#fafafa" stroke="#e5e7eb"/>
+  <text x="104" y="386" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#111827">요청 원문</text>
+  <text x="104" y="424" font-family="Arial, sans-serif" font-size="15" fill="#374151">이번 캠페인은 전환율 35% 상승을 무조건 보장합니다.</text>
+  <text x="104" y="482" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#111827">에이전트 초안</text>
+  <text x="104" y="520" font-family="Arial, sans-serif" font-size="15" fill="#374151">[발행 초안] 이번 캠페인은 전환율 35% 상승...</text>
+  <rect x="562" y="348" width="482" height="250" rx="16" fill="#fafafa" stroke="#e5e7eb"/>
+  <text x="590" y="386" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#111827">에이전트 판단과 멈춘 이유</text>
+  <text x="590" y="424" font-family="Arial, sans-serif" font-size="15" fill="#374151">검수 점수: 0.7</text>
+  <rect x="590" y="448" width="410" height="38" rx="9" fill="#fff1f2"/>
+  <text x="606" y="473" font-family="Arial, sans-serif" font-size="14" fill="#be123c">출처 없는 수치가 있어 확인이 필요합니다.</text>
+  <rect x="590" y="498" width="410" height="38" rx="9" fill="#fff1f2"/>
+  <text x="606" y="523" font-family="Arial, sans-serif" font-size="14" fill="#be123c">단정 표현 '무조건'이 포함되어 있습니다.</text>
+  <rect x="590" y="556" width="126" height="44" rx="10" fill="#2563eb"/>
+  <text x="638" y="584" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">승인</text>
+  <rect x="734" y="556" width="126" height="44" rx="10" fill="#e5e7eb"/>
+  <text x="782" y="584" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111827">반려</text>
+</svg>
